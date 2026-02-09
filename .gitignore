@@ -1,0 +1,5 @@
+*.log
+*.csv
+state.txt
+cooldown.txt
+__pycache__/
